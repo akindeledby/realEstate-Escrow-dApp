@@ -3,7 +3,7 @@
 
 
 
-This project is about a RealEstate NFT where a seller lists somep property on the blockchain for buyer to purchase. Every property is made available in the Escrow contract for verification and approval  affter payment is made to the seller. The ownership of the property is then transferred to the buyer.
+This project is about a RealEstate NFT where a seller lists some land property on the blockchain for buyers to purchase. Every property is made available in the Escrow contract for verification and approval  affter payment is made to the seller. The ownership of the property is then transferred to the buyer.
 
 Step by step procedures followed to create this project are:
 1. Create a Hardhat project using 
